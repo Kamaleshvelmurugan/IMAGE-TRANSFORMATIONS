@@ -20,8 +20,8 @@ Thus the program is executed in google colab.
 
 ## Program:
 
-#### Developed By : Manoj Kumar G
-#### Register Number : 212222230078
+#### Developed By :kamalesh v
+#### Register Number : 212222240042
 
 ### Installing OpenCV , importing necessary libraries and displaying images  
 
